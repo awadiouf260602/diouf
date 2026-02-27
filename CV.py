@@ -2,30 +2,35 @@ import streamlit as st
 
 with st.sidebar:
    
-    st.write("Papa Demba DIOP")
+    st.write("Awa Diouf")
     st.write("CONTACTS")
-    st.write("Email: dpapademba59@gmail.com")
-    st.write("Tel: 78147739")
-    st.write("Adresse: Medina,rue 06")
+    st.write("Email: awadiouf260602@gmail.com")
+    st.write("Tel: 785001566")
+    st.write("Adresse: Keur Massar,unite 10")
     st.write("FORMATIONS")
-    st.write("2021-2022: BAC L2")
-    st.write("2022-2025: Licence en Geographie")
-    st.write("2025-2026:BTS en Geomatique")
+    st.write("2022-2023: BAC L2")
+    st.write("2023-2024: Licence en Administration Economique et Social")
+    st.write("2024-2025:BTS en Geomatique")
 
+st.subheader("A propos de moi")
+st.write("Étudiante en géomatique spécialisée en télédétection et analyse spatiale, intéressée par la programmation et l’application des technologies numériques à l’agriculture de précision")
 
-
+         
 st.subheader("Compétences")
-st.write("Conception de base de données sur QUANTUM GIS et ARCGIS")
-st.write("Concevoir une base de donnée sur POWER AMC, Post gres")
+st.write("Conception de base de données sur QGIS et ARCGIS")
+st.write("Concevoir une base de donnée sur Post gres")
 st.write("Géoreferencement de carte")
 st.write("Numérisation")
-st.write("Maitrise des techniques de collecte données:application Mobile Topographer,Kobo Toolbox")
-st.write("Conception  de Plans sur Autocad")
-st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la réedaction de rapports technique, POWER POINT pour la Presentation de projets")
+st.write("Maitrise des techniques de collecte données:application Mobile Topographer")
+st.write("Maitrise avancée du Pack Office (EXCEL,Microsoft WORD, POWER POINT, Erdas Imagine, Google Earth ")
+st.write("Traitement d'images satellitaires")
+st.write("Notion de télédetection")
 
-st.subheader("Perspectives")
-st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
-st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
-st.write("Specialiste SiG")
+
+
+st.subheader("Perspective")
+st.write("Ambitionne d’appliquer la géomatique à la gestion de mon propre champ agricole et de proposer des services innovants aux agriculteurs")
+
+
 
 
